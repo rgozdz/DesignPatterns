@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">NewVersion</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2bb1da00_002D644f_002D4d56_002D9824_002D05eda63c2c20/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldBeSingleton" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80682C5D-73D3-4118-AC34-1D2C9485E48B::net5.0::DesignPatterns.SingletonTester.ShouldBeSingleton&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=66f18df7_002D1968_002D43ee_002Db25b_002D497618477819/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldBeSingleton #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80682C5D-73D3-4118-AC34-1D2C9485E48B::net5.0::DesignPatterns.SingletonTester.ShouldBeSingleton&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ff4d75cb_002D9d10_002D49ef_002Da4c9_002Dc1f0917ae466/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldBeSingleton #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80682C5D-73D3-4118-AC34-1D2C9485E48B::net5.0::DesignPatterns.SingletonTester&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80682C5D-73D3-4118-AC34-1D2C9485E48B::net5.0::DesignPatterns.Tests.SingleTokenTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80682C5D-73D3-4118-AC34-1D2C9485E48B::net5.0::DesignPatterns.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
